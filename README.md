@@ -20,7 +20,6 @@
   <a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0; 
   <a href="#white_check_mark-pré-requesitos">Pré requisitos</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-começando">Começando</a> &#xa0; | &#xa0;
-  
   <a href="https://github.com/Gabriel4420" target="_blank">Autor</a>
 </p>
 
